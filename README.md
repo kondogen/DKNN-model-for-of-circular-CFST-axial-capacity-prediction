@@ -1,9 +1,7 @@
-# DKNN
+# DKNN Model for Circular CFST Axial Capacity Prediction
 
-This is an archive of codes for paper "Interpretable domain knowledge enhanced machine learning framework on axial capacity prediction of circular CFST columns"
+This repository contains the implementation of the Integrated Multidimensional Feature Selection and Domain Knowledge-enhanced Neural Network (IMFS-DKNN) framework for predicting the axial compression capacity of circular Concrete-Filled Steel Tube (CFST) columns.
 
-Arxiv: https://arxiv.org/pdf/2402.04405.pdf
+The proposed framework integrates structural engineering domain knowledge with machine learning to improve both prediction accuracy and model interpretability.
 
-
-In this work we validate our Domain Knowledge Enhanced Neural Network approach for circular CFST columns axial load prediction.
-
+The framework was developed using a database of 2,621 circular CFST specimens collected from experimental studies and finite-element simulations.
